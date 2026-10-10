@@ -18,7 +18,7 @@ Anonim çalışan geri bildirimi toplayan, sonuçları gizlilik eşiğiyle göst
 ## Ekran görüntüleri
 
 ![Sonuç paneli](docs/panel.png)
-![Sorun analizi](docs/analiz.png)
+![Sorun analizi](docs/panel.png)
 
 ## Roller
 
